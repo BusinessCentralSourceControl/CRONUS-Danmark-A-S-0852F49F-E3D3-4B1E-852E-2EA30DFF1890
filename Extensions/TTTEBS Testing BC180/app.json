@@ -1,0 +1,42 @@
+{
+  "id": "6e41943e-dfc0-4a24-9f55-351e2d5f388b",
+  "name": "TTTEBS Testing BC180",
+  "publisher": "Default publisher",
+  "brief": "http://www.telosteam.dk/",
+  "description": "http://www.telosteam.dk/",
+  "version": "1.0.0.0",
+  "privacyStatement": "http://www.telosteam.dk/",
+  "EULA": "http://www.telosteam.dk/",
+  "help": "http://www.telosteam.dk/",
+  "url": "http://www.telosteam.dk/",
+  "logo": "/logo/TT_Logo square.png",
+  "runtime": "8.0",
+  "target": "Cloud",
+  "platform": "19.0.34496.34642",
+  "contextSensitiveHelpUrl": "http://www.telosteam.dk/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": [
+    "TRANSLATIONFILE"
+  ],
+  "dependencies": [
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "18.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "supportedLocales": [
+    "da-DK"
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 90149
+    }
+  ]
+}

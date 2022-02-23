@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TTTEBS Testing BC180">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 808492492 - Field 2842729223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Author</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BookPTE - Field Author - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 808492492 - Field 1328823306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ISBN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BookPTE - Field ISBN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 808492492 - Field 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BookPTE - Field Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 808492492 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BookPTE - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 808492492 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTTEBS BookPTE - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 329895610 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS AceEditorModes - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 329895610 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS AceEditorModes - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1986422064 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS AceEditorThemes - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1986422064 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS AceEditorThemes - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1876609518 - Control 2842729223 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Books - Control Author - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876609518 - Control 1328823306 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Books - Control ISBN - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876609518 - Control 2272340397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Books - Control Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876609518 - Control 3635338911 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Books - Control Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1876609518 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS Books - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Editor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Control 3194258435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Control EditorModes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Control 1687810197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Themes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Control EditorThemes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 4087695933 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action CreateXmlAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 4087695933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action CreateXmlAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 2276171812 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action DemoActionAL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 2276171812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demo AL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action DemoActionAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 3834403711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action DemoActionDotNet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 3834403711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demo DotNet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action DemoActionDotNet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 3044010687 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action InitXmlAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 3044010687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Init XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action InitXmlAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 1805280866 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action LoadFileAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 1805280866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Load file</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action LoadFileAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 1383785436 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action PrettifyXml - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 431035932 - Action 1383785436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prettify XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTTEBS XmlEditor - Action PrettifyXml - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3945296879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ace Editor Mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorMode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3945296879 - EnumValue 2952051269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Javascript</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorMode - EnumValue javascript - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3945296879 - EnumValue 3275213220 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JSON</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorMode - EnumValue json - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3945296879 - EnumValue 3819277359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorMode - EnumValue text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3945296879 - EnumValue 1177128675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorMode - EnumValue xml - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ace Editor Theme</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2448367986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ambiance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue ambiance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 3488845746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chaos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue chaos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2080129642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chrome</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue chrome - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 1346994054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clouds</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue clouds - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 3493563651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clouds midnight</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue clouds_midnight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 1477036945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cobalt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue cobalt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 83754515 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Crimson editor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue crimson_editor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 3803164736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dawn</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue dawn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 983526360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dracula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue dracula - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 1613423943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dreamweaver</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue dreamweaver - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 814102823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eclipse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue eclipse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2523233607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Github</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue github - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 3961306462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gob</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue gob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2348098845 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gruvbox</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue gruvbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2077372371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Idle fingers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue idle_fingers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 4180173259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Iplastic</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue iplastic - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 1796118456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Katzenmilch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue katzenmilch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 3902202737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kr theme</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue kr_theme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 984171068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kuroir</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue kuroir - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2376083585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Merbivore</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue merbivore - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 1544044274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Merbivore soft</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue merbivore_soft - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2451279620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Monokai</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue monokai - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 320847797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mono industrial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue mono_industrial - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2622213888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nord dark</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue nord_dark - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2950151182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pastel on dark</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue pastel_on_dark - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 3381765150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Solarized dark</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue solarized_dark - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 315949020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Solarized light</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue solarized_light - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 3439990933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL server</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue sqlserver - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 3775026128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terminal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue terminal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 4270406652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Textmate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue textmate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2244326427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tomorrow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue tomorrow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2086372646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tomorrow night</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue tomorrow_night - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 539077133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tomorrow night blue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue tomorrow_night_blue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 1381954833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tomorrow night bright</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue tomorrow_night_bright - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 482875936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twilight</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue twilight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2958633281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vibrant ink</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue vibrant_ink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1333881849 - EnumValue 2066775463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Xcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TTTEBS AceEditorTheme - EnumValue xcode - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
